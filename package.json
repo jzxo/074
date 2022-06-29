@@ -1,0 +1,22 @@
+{
+  "name": "iojs-tw-site",
+  "version": "0.0.0",
+  "private": true,
+  "hexo": {
+    "version": "3.0.0-rc.4"
+  },
+  "dependencies": {
+    "hexo": "^3.0.0-rc.4",
+    "hexo-deployer-git": "0.0.3",
+    "hexo-generator-archive": "*",
+    "hexo-generator-category": "*",
+    "hexo-generator-feed": "^1.0.0",
+    "hexo-generator-index": "*",
+    "hexo-generator-minify": "^0.1.0",
+    "hexo-generator-tag": "*",
+    "hexo-renderer-ejs": "*",
+    "hexo-renderer-marked": "^0.2.4",
+    "hexo-renderer-stylus": "^0.2.0",
+    "hexo-server": "^0.1.2"
+  }
+}
